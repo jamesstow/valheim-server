@@ -1,0 +1,5 @@
+.env
+backups/
+worlds_local/*.db
+worlds_local/*.fwl
+*.old
